@@ -108,7 +108,7 @@ The dataset includes relevant fields such as reporting year and month, product, 
 ## Repository Structure
 
 ```text
-PharmaGuard-Drug-Quality-Analysis/
+PharmaGuard-CDSCO-Drug-Quality-Analysis/
 │
 ├── README.md
 ├── data/
